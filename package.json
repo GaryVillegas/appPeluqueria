@@ -1,0 +1,19 @@
+{
+  "name": "apppeluqueria",
+  "version": "1.0.0",
+  "description": "Aplicación web creada para poder encontrar peluquerías cerca de tu ubicación o poder prublicar una propía.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "appPeluqueria"
+  },
+  "author": "GaryVillegas",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^19.0.6",
+    "@ionic/cli": "^7.2.0"
+  }
+}
